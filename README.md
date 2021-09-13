@@ -1,6 +1,10 @@
 # 📩 Chatcord
 
+## Description: 
+ *
+
 ## ☄ Technologies/Framework Used:
+  * [Node JS](https://nodejs.org/en/)
   * [Express JS](https://expressjs.com/)
   * [Socket.IO](https://socket.io/)
 
