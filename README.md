@@ -1,7 +1,7 @@
 # 📩 Chatcord
 
 ## Description: 
- *
+ * Join upto 5 rooms and chat with other users online!
 
 ## ☄ Technologies/Framework Used:
   * [Node JS](https://nodejs.org/en/)
